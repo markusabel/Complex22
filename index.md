@@ -1,37 +1,76 @@
-## Welcome to GitHub Pages
+# Welcome to the Workshop Nonlinear Science: Achievements and Perspectives 
 
-You can use the [editor on GitHub](https://github.com/markusabel/Complex22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Venue and how to get there
 
-### Markdown
+The event takes place at the Potsdam University (campus Golm) on September 26-28.
+A description how to arrive at the Campus is [here](https://www.uni-potsdam.de/en/llw/how-to-find-us/campus-golm#:~:text=Campus%20Golm%20of%20Potsdam%20University,606%2C%20X1%2C%20and%2061). An exact location of the venue will be published in August 2022.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can search yourself an hotel. In our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSd-XxtzKu7zAfEXQbVncvdzc_SGYSw2eEE1XA1kyOQFvO0E3g/viewform?usp=sf_link) we have an option for the interested to reserve rooms in hotel Mercure, such that the bulk of 
+the participants may stay at the sam e hotel.
 
-```markdown
-Syntax highlighted code block
+# Registration
 
-# Header 1
-## Header 2
-### Header 3
+Please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLSd-XxtzKu7zAfEXQbVncvdzc_SGYSw2eEE1XA1kyOQFvO0E3g/viewform?usp=sf_link)
 
-- Bulleted
-- List
+# Program
+the program will be published soon
 
-1. Numbered
-2. List
+# List of Speakers
 
-**Bold** and _Italic_ and `Code` text
+The preliminary list of speakers is
 
-[Link](url) and ![Image](src)
-```
+|Carsten Beta           | Potsdam University |.               
+| Burylko               |                    |.  
+| Rok Cestnik           | Potsdam University |. 
+| Ralf Engbert          | Potsdam University |. 
+| Fred Feudel           | Potsdam University |. 
+| Matthias Holschneider
+| Jürgen Kurths         | Potsdam Institute for Cimate Change Impact |
+| Ralf Metzler          |
+| Omel'chenko.      omelchenko@uni-potsdam.de         Yes
+| Sokolov.          igor.sokolov@physik.hu-berlin.de   Yes
+| Spritz.           yuri.shprits@gfz-potsdam.de        no
+| Straube.         straube@zib.de                     yes
+| Toenjes           rahleph@googlemail.com            Yes
+| Karin Wiesner          karoline.wiesner@uni-potsdam.de     Yes, on 26 and 27
+Wolfrum.           wolfrum@wias-berlin.de         Yes, one day
+Yanchuk.           Serhiy.Yanchuk@pik-potsdam.de  only 2 days
+Zaks               zaks@physik.hu-berlin.de         Yes
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+            15 speakers
 
-### Jekyll Themes
+Close to Berlin
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/markusabel/Complex22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Brilliantov         nb144@leicester.ac.uk         maybe
+Kantz               kantz@pks.mpg.de              no
+Maistrenko.         y.maistrenko@biomed.kiev.ua   yes
+Parlitz             ulrich.parlitz@ds.mpg.de      yes
+Popovych.           o.popovych@fz-juelich.de      yes
+Sosnovtseva.        olga@sund.ku.dk                                   yes, starting second part of 26
+Volker Ahlers.                   volker.ahlers@hs-hannover.de               not on 26
+Dima Shepelyansky.                                                                        online
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+           7 speakers
+
+
+Italians
+
+Livi                roberto.livi@unifi.it         yes, partially.
+Politi              a.politi@abdn.ac.uk           yes
+Ruffo.              ruffo@sissa.it                yes
+
+
+US
+
+Aronson.            isa12@psu.edu                  yes
+Bunimovich.         leonid.bunimovich@math.gatech.edu yes
+Tsimring            ltsimring@ucsd.edu            no  
+
+
+
+# Organizers and Contact
+The workshop is organiyed bz Mischa Rosenblum and Markus Abel
+
+Having trouble? Blow a horn and run away.
