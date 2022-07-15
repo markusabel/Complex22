@@ -9,18 +9,16 @@ A description how to arrive at the Campus is [here](https://www.uni-potsdam.de/e
 You can search yourself an hotel. In our [registration form](https://docs.google.com/forms/d/e/1FAIpQLSd-XxtzKu7zAfEXQbVncvdzc_SGYSw2eEE1XA1kyOQFvO0E3g/viewform?usp=sf_link) we have an option for the interested to reserve rooms in hotel Mercure, such that the bulk of 
 the participants may stay at the sam e hotel.
 
-# Registration
 
-Please register using [this form](https://docs.google.com/forms/d/e/1FAIpQLSd-XxtzKu7zAfEXQbVncvdzc_SGYSw2eEE1XA1kyOQFvO0E3g/viewform?usp=sf_link)
 
 # Program
 the program will be published soon
 
 # List of Speakers
 
-The preliminary list of speakers is found [here](https://docs.google.com/document/d/1IgmI-bXDky-I6r3Qt-_e5XmRrUaD847P/edit)
+![Preliminary list of speakers](/images/two_columns.png)
 
 # Organizers and Contact
-The workshop is organiyed bz Mischa Rosenblum and Markus Abel
+The workshop is organized by Mischa Rosenblum and Markus Abel
 
-Having trouble? Blow a horn and run away.
+
