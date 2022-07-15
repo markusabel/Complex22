@@ -1,4 +1,4 @@
-# Welcome to the Workshop Nonlinear Science: Achievements and Perspectives 
+# Nonlinear Science: Achievements and Perspectives 
 
 
 # Venue and how to get there
