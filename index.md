@@ -16,6 +16,6 @@ the program will be published soon
 ![Preliminary list of speakers](/images/two_columns.png)
 
 # Organizers and Contact
-The workshop is organized by [Mischa Rosenblum](m.rosenblum@uni-potsdam.de) and Markus Abel
+The workshop is organized by [Michael Rosenblum](m.rosenblum@uni-potsdam.de) and [Markus Abel](mabel@uni-potsdam.de)
 
 
